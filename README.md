@@ -15,7 +15,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 5. Create a new pull request from your forked repository (Button located at the top of your repository)
 8. Star this repository!
 
-### Don't forget to Follow and Share 
+### Don't forget to Follow and Share :)
 <a href="https://github.com/battlestar004" aria-label="Follow Me on GitHub"><img src="https://img.shields.io/badge/Follow me-green?style=for-the-badge&logo=github"/>
 <br>
 
