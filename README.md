@@ -25,6 +25,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 - Java
 - C++
 - Javascript
+- Go
 
 
 ### Issues(Projects) for Beginners
